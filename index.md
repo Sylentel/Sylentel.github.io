@@ -11,3 +11,5 @@ As Asterix said:
 
 >Die spinnen,
 >die Römer!
+
+<img src="https://banner2.cleanpng.com/20180407/lcw/kisspng-asterix-the-gaul-obelix-dogmatix-cartoon-character-5ac8ae8472c913.0252783615231013164702.jpg"/>
