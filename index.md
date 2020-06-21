@@ -6,3 +6,8 @@ Der Gallier Asterix wohnt in einem Dorf mit seinem besten Freund Obelix. Das Dor
 * ehrlich
 * intelligent
 * klein
+
+As Asterix said:
+
+>Die spinnen,
+>die Römer!
